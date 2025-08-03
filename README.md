@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ketan 👋
 
-<!--
-**xketanops/xketanops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer and a science student currently in class 12th. I enjoy building creative and practical solutions using code, exploring new technologies, and sharing what I learn.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Class 12th Science student
+- 💻 Python developer, interested in automation, data science, and web development
+- 🔬 Passionate about science and technology
+- 🌱 Currently learning advanced Python, data structures, and algorithms
+
+## 🛠️ Skills
+
+- Python
+- Basic web development (HTML, CSS, JavaScript)
+- Git & GitHub
+- Data analysis (beginner)
+
+## 📂 Projects
+
+Check out my repositories to see some of my work!
+
+## 📫 How to reach me
+
+- Email: [Your email here]
+- LinkedIn: [Your LinkedIn link here, if you have one]
+- GitHub: [github.com/xketanops](https://github.com/xketanops)
+
+## 💡 Fun Fact
+
+I love learning new things and sharing my knowledge with others. Let’s connect and code together!
+
+---
+
+*Thanks for visiting my profile!*
